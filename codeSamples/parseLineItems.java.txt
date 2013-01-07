@@ -1,0 +1,55 @@
+// for each line of text on the page
+Pattern firstLinePattern = Pattern.compile("^(.*)\\s+\\$\\s+(\\d+\\.\\d\\d)\\s+$");
+Pattern secondLinePattern = Pattern.compile("^.*:\\s(.*)\\s*$");
+Pattern lastLinePattern = Pattern.compile("^.*Discount.*\\(\\$\\s+(\\d+\\.\\d\\d)\\)\\s*$");
+Iterator<String> i = parseHOCR(pathToHocrZip, hocrFilename).iterator();
+while (i.hasNext()) {
+	
+	// does the line end with a dollar amount?  
+	Matcher firstLineMatcher = firstLinePattern.matcher(i.next());
+	if (firstLineMatcher.matches()) {
+		String description = firstLineMatcher.group(1);
+		String amount = firstLineMatcher.group(2);
+		String partNumber = "";
+		String discount = "";
+		
+		// if the dollar amount is a total, we're done with line items
+		if (description.contains("Total")) {
+			break;
+		}
+		
+		// if there's another line, it's got the part number
+		if (i.hasNext()) {
+			Matcher secondLineMatcher = secondLinePattern.matcher(i.next());
+			if (secondLineMatcher.matches()) {
+				partNumber = secondLineMatcher.group(1);
+			}
+			
+			// if there's another line, ignore it
+			if (i.hasNext()) {
+				i.next();
+				
+				// if there's another line, ignore it
+				if (i.hasNext()) {
+					i.next();
+					
+					// if there's another line, get the discount
+					if (i.hasNext()) {
+						String foo = i.next();
+						System.out.println("foo: " + foo);
+						Matcher lastLineMatcher = lastLinePattern.matcher(foo);
+						if (lastLineMatcher.matches()) {
+							discount = lastLineMatcher.group(1);
+						}
+					}
+				}
+			}
+		}
+		
+		System.out.println("Desc: " + description);
+		System.out.println("Amount: " + amount);
+		System.out.println("Part: " + partNumber);
+		System.out.println("Discount: " + discount);
+		System.out.println();
+	}
+}

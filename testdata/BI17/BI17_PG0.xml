@@ -1,0 +1,949 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Documents>
+  <Document CPUTimeRecognition="435" CPUTimeIpp="72" Orientation="0" Resolution="{X=200,Y=200}" PixelSize="{Width=2550, Height=3300}" ResultCoordinates="OriginalImage" Type="1" ImageId="0" ImageName="C:\Ephesoft\SharedFolders\ephesoft-system-folder\BI17\BI17_PG0.png" Name="FullPage">
+    <Corners>
+      <Corner Position="{X=0,Y=0}" />
+      <Corner Position="{X=2549,Y=0}" />
+      <Corner Position="{X=2549,Y=3299}" />
+      <Corner Position="{X=0,Y=3299}" />
+    </Corners>
+    <ReadAreas>
+      <ReadArea Orientation="0" LanguageList="ENGLISH" SyntaxMode="Alphanumerical" Geometry="0 0 2549 0 0 3299" Encoding="1252" Type="TextLine" Number="1" FullName="TextField" Name="TextField">
+        <Blocks>
+          <Block Alignment="Unknown" Number="1" Geometry="601 232 468 0 0 211">
+            <TextLines>
+              <TextLine Orientation="0" BestStringInfo="RejectThreshold" BestStringConfidence="0" BestString="Apple Store, Twenty Ninth Street" Geometry="601 232 468 0 0 31" RegularExpressionInfo="NoRegularExpression" Reader="Voter" Font="MachinePrint" Pitch="Variable" Number="1">
+                <Strings>
+                  <String Info="RejectThreshold" Confidence="0" String="Apple Store, Twenty Ninth Street">
+                    <CharConfidences Values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 " />
+                  </String>
+                </Strings>
+                <TextLineSegments>
+                  <TextLineSegment Font="MachinePrint" Pitch="Variable" CapitalHeight="292" CapitalHeightGeometry="601 233 468 0 0 23" Geometry="601 232 468 0 0 31">
+                    <Words>
+                      <Word BestWordString="Apple" Geometry="601 232 83 0 0 30" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                      <Word BestWordString=" " Geometry="684 233 11 0 0 23" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="Store" Geometry="695 234 72 0 0 22" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                      <Word BestWordString="," Geometry="769 250 6 0 0 10" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString=" " Geometry="775 233 9 0 0 23" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="Twenty" Geometry="784 234 103 0 0 29" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                      <Word BestWordString=" " Geometry="887 233 11 0 0 23" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="Ninth" Geometry="898 232 76 0 0 24" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                      <Word BestWordString=" " Geometry="974 233 11 0 0 23" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="Street" Geometry="985 234 84 0 0 22" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                </TextLineSegments>
+              </TextLine>
+              <TextLine Orientation="0" BestStringInfo="RejectThreshold" BestStringConfidence="0" BestString="1755 29th Street" Geometry="604 278 218 0 0 24" RegularExpressionInfo="NoRegularExpression" Reader="Voter" Font="MachinePrint" Pitch="Variable" Number="2">
+                <Strings>
+                  <String Info="RejectThreshold" Confidence="0" String="1755 29th Street">
+                    <CharConfidences Values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 " />
+                  </String>
+                </Strings>
+                <TextLineSegments>
+                  <TextLineSegment Font="MachinePrint" Pitch="Variable" CapitalHeight="292" CapitalHeightGeometry="604 279 218 0 0 23" Geometry="604 278 218 0 0 24">
+                    <Words>
+                      <Word BestWordString="1755" Geometry="604 280 55 0 0 22" Pitch="Variable" Font="MachinePrint" Type="Numeric" />
+                      <Word BestWordString=" " Geometry="659 279 12 0 0 23" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="29th" Geometry="671 278 59 0 0 24" Pitch="Variable" Font="MachinePrint" Type="Mixed" />
+                      <Word BestWordString=" " Geometry="730 279 11 0 0 23" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="Street" Geometry="741 279 81 0 0 23" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                </TextLineSegments>
+              </TextLine>
+              <TextLine Orientation="0" BestStringInfo="RejectThreshold" BestStringConfidence="0" BestString="Boulder, CO 80301" Geometry="602 325 242 0 0 28" RegularExpressionInfo="NoRegularExpression" Reader="Voter" Font="MachinePrint" Pitch="Variable" Number="3">
+                <Strings>
+                  <String Info="RejectThreshold" Confidence="0" String="Boulder, CO 80301">
+                    <CharConfidences Values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 " />
+                  </String>
+                </Strings>
+                <TextLineSegments>
+                  <TextLineSegment Font="MachinePrint" Pitch="Variable" CapitalHeight="0" CapitalHeightGeometry="602 325 242 0 0 28" Geometry="602 325 242 0 0 28">
+                    <Words>
+                      <Word BestWordString="Boulder" Geometry="602 325 105 0 0 25" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                      <Word BestWordString="," Geometry="706 345 5 0 0 8" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString=" " Geometry="711 325 10 0 0 28" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="CO" Geometry="721 326 38 0 0 23" Pitch="Variable" Font="MachinePrint" Type="AlphaUpperCase" DictionaryInfo="Confirmed" />
+                      <Word BestWordString=" " Geometry="759 327 10 0 0 23" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="80301" Geometry="769 327 75 0 0 23" Pitch="Variable" Font="MachinePrint" Type="Numeric" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                </TextLineSegments>
+              </TextLine>
+              <TextLine Orientation="0" BestStringInfo="RejectThreshold" BestStringConfidence="0" BestString="twentyninthstreet@apple.com" Geometry="601 372 411 0 0 31" RegularExpressionInfo="NoRegularExpression" Reader="Voter" Font="MachinePrint" Pitch="Variable" Number="4">
+                <Strings>
+                  <String Info="RejectThreshold" Confidence="0" String="twentyninthstreet@apple.com">
+                    <CharConfidences Values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 " />
+                  </String>
+                </Strings>
+                <TextLineSegments>
+                  <TextLineSegment Font="MachinePrint" Pitch="Variable" CapitalHeight="279" CapitalHeightGeometry="601 374 411 0 0 22" Geometry="601 372 411 0 0 31">
+                    <Words>
+                      <Word BestWordString="twentyninthstreet" Geometry="601 372 246 0 0 31" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" />
+                      <Word BestWordString="@" Geometry="849 373 21 0 0 23" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="apple" Geometry="872 372 75 0 0 30" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" DictionaryInfo="Confirmed" />
+                      <Word BestWordString="." Geometry="950 392 4 0 0 4" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="com" Geometry="955 379 57 0 0 18" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" DictionaryInfo="Confirmed" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                </TextLineSegments>
+              </TextLine>
+              <TextLine Orientation="0" BestStringInfo="RejectThreshold" BestStringConfidence="0" BestString="720-479-9451" Geometry="602 420 177 0 0 23" RegularExpressionInfo="NoRegularExpression" Reader="Voter" Font="MachinePrint" Pitch="190" Number="5">
+                <Strings>
+                  <String Info="RejectThreshold" Confidence="0" String="720-479-9451">
+                    <CharConfidences Values="0 0 0 0 0 0 0 0 0 0 0 0 " />
+                  </String>
+                </Strings>
+                <TextLineSegments>
+                  <TextLineSegment Font="MachinePrint" Pitch="190" CapitalHeight="279" CapitalHeightGeometry="602 420 177 0 0 22" Geometry="602 420 177 0 0 23">
+                    <Words>
+                      <Word BestWordString="720" Geometry="602 420 46 0 0 23" Pitch="190" Font="MachinePrint" Type="Numeric" />
+                      <Word BestWordString="-" Geometry="651 432 8 0 0 2" Pitch="190" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="479" Geometry="661 420 48 0 0 22" Pitch="190" Font="MachinePrint" Type="Numeric" />
+                      <Word BestWordString="-" Geometry="711 432 8 0 0 2" Pitch="190" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="9451" Geometry="722 420 57 0 0 22" Pitch="190" Font="MachinePrint" Type="Numeric" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                </TextLineSegments>
+              </TextLine>
+            </TextLines>
+          </Block>
+          <Block Alignment="Unknown" Number="2" Geometry="601 512 569 0 0 31">
+            <TextLines>
+              <TextLine Orientation="0" BestStringInfo="RejectThreshold" BestStringConfidence="0" BestString="www.apple.com/retail/twentyninthstreet/" Geometry="601 512 569 0 0 31" RegularExpressionInfo="NoRegularExpression" Reader="Voter" Font="MachinePrint" Pitch="Variable" Number="1">
+                <Strings>
+                  <String Info="RejectThreshold" Confidence="0" String="www.apple.com/retail/twentyninthstreet/">
+                    <CharConfidences Values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 " />
+                  </String>
+                </Strings>
+                <TextLineSegments>
+                  <TextLineSegment Font="MachinePrint" Pitch="Variable" CapitalHeight="304" CapitalHeightGeometry="601 512 569 0 0 24" Geometry="601 512 569 0 0 31">
+                    <Words>
+                      <Word BestWordString="www" Geometry="601 520 71 0 0 16" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" DictionaryInfo="Confirmed" />
+                      <Word BestWordString="." Geometry="673 532 4 0 0 4" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="apple" Geometry="679 512 75 0 0 30" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" DictionaryInfo="Confirmed" />
+                      <Word BestWordString="." Geometry="757 532 4 0 0 4" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="com" Geometry="763 519 56 0 0 18" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" DictionaryInfo="Confirmed" />
+                      <Word BestWordString="/" Geometry="821 514 11 0 0 24" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="retail" Geometry="835 512 65 0 0 25" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" DictionaryInfo="Confirmed" />
+                      <Word BestWordString="/" Geometry="902 514 11 0 0 24" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="twentyninthstreet" Geometry="914 512 246 0 0 31" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" />
+                      <Word BestWordString="/" Geometry="1160 514 10 0 0 24" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                </TextLineSegments>
+              </TextLine>
+            </TextLines>
+          </Block>
+          <Block Alignment="Unknown" Number="3" Geometry="601 595 367 0 0 140">
+            <TextLines>
+              <TextLine Orientation="0" BestStringInfo="RejectThreshold" BestStringConfidence="0" BestString="May 25, 2012 02:06 PM" Geometry="602 595 320 0 0 29" RegularExpressionInfo="NoRegularExpression" Reader="Voter" Font="MachinePrint" Pitch="Variable" Number="1">
+                <Strings>
+                  <String Info="RejectThreshold" Confidence="0" String="May 25, 2012 02:06 PM">
+                    <CharConfidences Values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 " />
+                  </String>
+                </Strings>
+                <TextLineSegments>
+                  <TextLineSegment Font="MachinePrint" Pitch="Variable" CapitalHeight="279" CapitalHeightGeometry="602 595 320 0 0 22" Geometry="602 595 320 0 0 29">
+                    <Words>
+                      <Word BestWordString="May" Geometry="602 595 58 0 0 29" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                      <Word BestWordString=" " Geometry="660 595 10 0 0 22" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="25" Geometry="670 595 31 0 0 22" Pitch="Variable" Font="MachinePrint" Type="Numeric" />
+                      <Word BestWordString="," Geometry="704 611 6 0 0 10" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString=" " Geometry="710 595 11 0 0 22" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="2012" Geometry="721 595 61 0 0 22" Pitch="Variable" Font="MachinePrint" Type="Numeric" />
+                      <Word BestWordString=" " Geometry="782 595 10 0 0 22" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="02" Geometry="792 595 33 0 0 22" Pitch="Variable" Font="MachinePrint" Type="Numeric" />
+                      <Word BestWordString=":" Geometry="829 601 5 0 0 16" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="06" Geometry="836 595 32 0 0 22" Pitch="Variable" Font="MachinePrint" Type="Numeric" />
+                      <Word BestWordString=" " Geometry="868 595 12 0 0 22" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="PM" Geometry="880 595 42 0 0 22" Pitch="Variable" Font="MachinePrint" Type="AlphaUpperCase" DictionaryInfo="Confirmed" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                </TextLineSegments>
+              </TextLine>
+              <TextLine Orientation="0" BestStringInfo="RejectThreshold" BestStringConfidence="0" BestString="Michael Muller" Geometry="602 658 200 0 0 25" RegularExpressionInfo="NoRegularExpression" Reader="Voter" Font="MachinePrint" Pitch="Variable" Number="2">
+                <Strings>
+                  <String Info="RejectThreshold" Confidence="0" String="Michael Muller">
+                    <CharConfidences Values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 " />
+                  </String>
+                </Strings>
+                <TextLineSegments>
+                  <TextLineSegment Font="MachinePrint" Pitch="Variable" CapitalHeight="0" CapitalHeightGeometry="602 658 200 0 0 25" Geometry="602 658 200 0 0 25">
+                    <Words>
+                      <Word BestWordString="Michael" Geometry="602 658 103 0 0 25" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                      <Word BestWordString=" " Geometry="705 658 12 0 0 24" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="Muller" Geometry="717 658 85 0 0 24" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                </TextLineSegments>
+              </TextLine>
+              <TextLine Orientation="0" BestStringInfo="RejectThreshold" BestStringConfidence="0" BestString="themullers@themullers.org" Geometry="601 704 367 0 0 31" RegularExpressionInfo="NoRegularExpression" Reader="Voter" Font="MachinePrint" Pitch="Variable" Number="3">
+                <Strings>
+                  <String Info="RejectThreshold" Confidence="0" String="themullers@themullers.org">
+                    <CharConfidences Values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 " />
+                  </String>
+                </Strings>
+                <TextLineSegments>
+                  <TextLineSegment Font="MachinePrint" Pitch="Variable" CapitalHeight="0" CapitalHeightGeometry="601 704 367 0 0 31" Geometry="601 704 367 0 0 31">
+                    <Words>
+                      <Word BestWordString="themullers" Geometry="601 704 143 0 0 25" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" />
+                      <Word BestWordString="@" Geometry="748 705 21 0 0 23" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="themullers" Geometry="771 704 144 0 0 25" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" />
+                      <Word BestWordString="." Geometry="918 724 4 0 0 4" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="org" Geometry="925 711 43 0 0 24" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" DictionaryInfo="Confirmed" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                </TextLineSegments>
+              </TextLine>
+            </TextLines>
+          </Block>
+          <Block Alignment="Unknown" Number="4" Geometry="602 786 664 0 0 212">
+            <TextLines>
+              <TextLine Orientation="0" BestStringInfo="RejectThreshold" BestStringConfidence="0" BestString="Moshi Mini DisplayPort to HDMI Adaptor" Geometry="602 786 581 0 0 31" RegularExpressionInfo="NoRegularExpression" Reader="Voter" Font="MachinePrint" Pitch="Variable" Number="1">
+                <Strings>
+                  <String Info="RejectThreshold" Confidence="0" String="Moshi Mini DisplayPort to HDMI Adaptor">
+                    <CharConfidences Values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 " />
+                  </String>
+                </Strings>
+                <TextLineSegments>
+                  <TextLineSegment Font="MachinePrint" Pitch="Variable" CapitalHeight="292" CapitalHeightGeometry="602 787 581 0 0 23" Geometry="602 786 581 0 0 31">
+                    <Words>
+                      <Word BestWordString="Moshi" Geometry="602 786 84 0 0 24" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" />
+                      <Word BestWordString=" " Geometry="686 787 11 0 0 23" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="Mini" Geometry="697 787 60 0 0 23" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                      <Word BestWordString=" " Geometry="757 787 11 0 0 23" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="DisplayPort" Geometry="768 786 163 0 0 31" Pitch="Variable" Font="MachinePrint" Type="Alpha" />
+                      <Word BestWordString=" " Geometry="931 787 9 0 0 23" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="to" Geometry="940 789 28 0 0 21" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" DictionaryInfo="Confirmed" />
+                      <Word BestWordString=" " Geometry="968 787 11 0 0 23" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="HDMI" Geometry="979 788 76 0 0 22" Pitch="Variable" Font="MachinePrint" Type="AlphaUpperCase" />
+                      <Word BestWordString=" " Geometry="1055 787 12 0 0 23" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="Adaptor" Geometry="1067 786 116 0 0 30" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                </TextLineSegments>
+              </TextLine>
+              <TextLine Orientation="0" BestStringInfo="RejectThreshold" BestStringConfidence="0" BestString="Part Number: H 1824ZM/A" Geometry="602 833 349 0 0 26" RegularExpressionInfo="NoRegularExpression" Reader="Voter" Font="MachinePrint" Pitch="Variable" Number="2">
+                <Strings>
+                  <String Info="RejectThreshold" Confidence="0" String="Part Number: H 1824ZM/A">
+                    <CharConfidences Values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 " />
+                  </String>
+                </Strings>
+                <TextLineSegments>
+                  <TextLineSegment Font="MachinePrint" Pitch="Variable" CapitalHeight="292" CapitalHeightGeometry="602 834 349 0 0 23" Geometry="602 833 349 0 0 26">
+                    <Words>
+                      <Word BestWordString="Part" Geometry="602 835 53 0 0 23" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                      <Word BestWordString=" " Geometry="655 834 10 0 0 23" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="Number" Geometry="665 833 111 0 0 24" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                      <Word BestWordString=":" Geometry="778 842 4 0 0 15" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString=" " Geometry="782 834 11 0 0 23" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="H" Geometry="793 835 16 0 0 22" Pitch="Variable" Font="MachinePrint" Type="AlphaUpperCase" />
+                      <Word BestWordString=" " Geometry="809 834 7 0 0 23" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="1824ZM" Geometry="816 835 103 0 0 23" Pitch="Variable" Font="MachinePrint" Type="Mixed" />
+                      <Word BestWordString="/" Geometry="920 835 11 0 0 24" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="A" Geometry="933 835 18 0 0 22" Pitch="Variable" Font="MachinePrint" Type="AlphaUpperCase" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                </TextLineSegments>
+              </TextLine>
+              <TextLine Orientation="0" BestStringInfo="RejectThreshold" BestStringConfidence="0" BestString="Return Date: Jun. 08, 2012" Geometry="602 881 348 0 0 26" RegularExpressionInfo="NoRegularExpression" Reader="Voter" Font="MachinePrint" Pitch="Variable" Number="3">
+                <Strings>
+                  <String Info="RejectThreshold" Confidence="0" String="Return Date: Jun. 08, 2012">
+                    <CharConfidences Values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 " />
+                  </String>
+                </Strings>
+                <TextLineSegments>
+                  <TextLineSegment Font="MachinePrint" Pitch="Variable" CapitalHeight="279" CapitalHeightGeometry="602 881 348 0 0 22" Geometry="602 881 348 0 0 26">
+                    <Words>
+                      <Word BestWordString="Return" Geometry="602 881 88 0 0 22" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                      <Word BestWordString=" " Geometry="690 881 12 0 0 22" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="Date" Geometry="702 881 61 0 0 23" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                      <Word BestWordString=":" Geometry="766 888 4 0 0 15" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString=" " Geometry="770 881 9 0 0 22" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="Jun" Geometry="779 881 46 0 0 22" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                      <Word BestWordString="." Geometry="829 899 4 0 0 4" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString=" " Geometry="833 881 10 0 0 22" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="08" Geometry="843 881 32 0 0 23" Pitch="Variable" Font="MachinePrint" Type="Numeric" />
+                      <Word BestWordString="," Geometry="877 899 5 0 0 8" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString=" " Geometry="882 881 10 0 0 22" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="2012" Geometry="892 881 58 0 0 23" Pitch="Variable" Font="MachinePrint" Type="Numeric" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                </TextLineSegments>
+              </TextLine>
+              <TextLine Orientation="0" BestStringInfo="RejectThreshold" BestStringConfidence="0" BestString="For Suppport: www.moshimonde.com/contactus" Geometry="602 926 664 0 0 30" RegularExpressionInfo="NoRegularExpression" Reader="Voter" Font="MachinePrint" Pitch="Variable" Number="4">
+                <Strings>
+                  <String Info="RejectThreshold" Confidence="0" String="For Suppport: www.moshimonde.com/contactus">
+                    <CharConfidences Values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 " />
+                  </String>
+                </Strings>
+                <TextLineSegments>
+                  <TextLineSegment Font="MachinePrint" Pitch="Variable" CapitalHeight="304" CapitalHeightGeometry="602 926 664 0 0 24" Geometry="602 926 664 0 0 30">
+                    <Words>
+                      <Word BestWordString="For" Geometry="602 928 42 0 0 23" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                      <Word BestWordString=" " Geometry="644 926 9 0 0 24" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="Suppport" Geometry="653 927 129 0 0 29" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" />
+                      <Word BestWordString=":" Geometry="784 935 4 0 0 15" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString=" " Geometry="788 926 10 0 0 24" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="www" Geometry="798 934 71 0 0 16" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" DictionaryInfo="Confirmed" />
+                      <Word BestWordString="." Geometry="870 946 4 0 0 4" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="moshimonde" Geometry="877 926 179 0 0 25" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" />
+                      <Word BestWordString="." Geometry="1059 946 4 0 0 4" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="com" Geometry="1065 933 56 0 0 18" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" DictionaryInfo="Confirmed" />
+                      <Word BestWordString="/" Geometry="1123 928 11 0 0 24" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="contactus" Geometry="1136 930 130 0 0 21" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                </TextLineSegments>
+              </TextLine>
+              <TextLine Orientation="0" BestStringInfo="RejectThreshold" BestStringConfidence="0" BestString="Business Discount" Geometry="602 974 244 0 0 24" RegularExpressionInfo="NoRegularExpression" Reader="Voter" Font="MachinePrint" Pitch="Variable" Number="5">
+                <Strings>
+                  <String Info="RejectThreshold" Confidence="0" String="Business Discount">
+                    <CharConfidences Values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 " />
+                  </String>
+                </Strings>
+                <TextLineSegments>
+                  <TextLineSegment Font="MachinePrint" Pitch="Variable" CapitalHeight="279" CapitalHeightGeometry="602 975 244 0 0 22" Geometry="602 974 244 0 0 24">
+                    <Words>
+                      <Word BestWordString="Business" Geometry="602 974 113 0 0 24" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                      <Word BestWordString=" " Geometry="715 975 12 0 0 22" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="Discount" Geometry="727 974 119 0 0 24" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                </TextLineSegments>
+              </TextLine>
+            </TextLines>
+          </Block>
+          <Block Alignment="Unknown" Number="5" Geometry="602 1089 626 0 0 212">
+            <TextLines>
+              <TextLine Orientation="0" BestStringInfo="RejectThreshold" BestStringConfidence="0" BestString="Belkin 12 FT HDMI to HDMI vl.4 Cable Blk" Geometry="602 1089 589 0 0 24" RegularExpressionInfo="NoRegularExpression" Reader="Voter" Font="MachinePrint" Pitch="Variable" Number="1">
+                <Strings>
+                  <String Info="RejectThreshold" Confidence="0" String="Belkin 12 FT HDMI to HDMI vl.4 Cable Blk">
+                    <CharConfidences Values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 " />
+                  </String>
+                </Strings>
+                <TextLineSegments>
+                  <TextLineSegment Font="MachinePrint" Pitch="Variable" CapitalHeight="0" CapitalHeightGeometry="602 1089 589 0 0 24" Geometry="602 1089 589 0 0 24">
+                    <Words>
+                      <Word BestWordString="Belkin" Geometry="602 1089 86 0 0 24" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" />
+                      <Word BestWordString=" " Geometry="688 1089 12 0 0 24" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="12" Geometry="700 1091 27 0 0 22" Pitch="Variable" Font="MachinePrint" Type="Numeric" />
+                      <Word BestWordString=" " Geometry="727 1089 12 0 0 24" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="FT" Geometry="739 1091 32 0 0 22" Pitch="Variable" Font="MachinePrint" Type="AlphaUpperCase" />
+                      <Word BestWordString=" " Geometry="771 1089 10 0 0 24" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="HDMI" Geometry="781 1091 76 0 0 22" Pitch="Variable" Font="MachinePrint" Type="AlphaUpperCase" />
+                      <Word BestWordString=" " Geometry="857 1089 11 0 0 24" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="to" Geometry="868 1092 28 0 0 21" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" DictionaryInfo="Confirmed" />
+                      <Word BestWordString=" " Geometry="896 1089 11 0 0 24" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="HDMI" Geometry="907 1091 76 0 0 22" Pitch="Variable" Font="MachinePrint" Type="AlphaUpperCase" />
+                      <Word BestWordString=" " Geometry="983 1089 11 0 0 24" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="vl" Geometry="994 1091 28 0 0 22" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" />
+                      <Word BestWordString="." Geometry="1027 1108 5 0 0 5" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="4" Geometry="1034 1091 16 0 0 22" Pitch="Variable" Font="MachinePrint" Type="Numeric" />
+                      <Word BestWordString=" " Geometry="1050 1089 9 0 0 24" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="Cable" Geometry="1059 1089 79 0 0 24" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                      <Word BestWordString=" " Geometry="1138 1089 11 0 0 24" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="Blk" Geometry="1149 1089 42 0 0 24" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                </TextLineSegments>
+              </TextLine>
+              <TextLine Orientation="0" BestStringInfo="RejectThreshold" BestStringConfidence="0" BestString="Part Number: H7047ZM/A" Geometry="602 1136 352 0 0 26" RegularExpressionInfo="NoRegularExpression" Reader="Voter" Font="MachinePrint" Pitch="Variable" Number="2">
+                <Strings>
+                  <String Info="RejectThreshold" Confidence="0" String="Part Number: H7047ZM/A">
+                    <CharConfidences Values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 " />
+                  </String>
+                </Strings>
+                <TextLineSegments>
+                  <TextLineSegment Font="MachinePrint" Pitch="Variable" CapitalHeight="292" CapitalHeightGeometry="602 1137 352 0 0 23" Geometry="602 1136 352 0 0 26">
+                    <Words>
+                      <Word BestWordString="Part" Geometry="602 1138 53 0 0 23" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                      <Word BestWordString=" " Geometry="655 1137 10 0 0 23" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="Number" Geometry="665 1136 111 0 0 24" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                      <Word BestWordString=":" Geometry="778 1145 4 0 0 15" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString=" " Geometry="782 1137 11 0 0 23" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="H7047ZM" Geometry="793 1138 129 0 0 23" Pitch="Variable" Font="MachinePrint" Type="Mixed" />
+                      <Word BestWordString="/" Geometry="924 1138 11 0 0 24" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="A" Geometry="936 1138 18 0 0 22" Pitch="Variable" Font="MachinePrint" Type="AlphaUpperCase" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                </TextLineSegments>
+              </TextLine>
+              <TextLine Orientation="0" BestStringInfo="RejectThreshold" BestStringConfidence="0" BestString="Return Date: Jun. 08, 2012" Geometry="602 1185 348 0 0 26" RegularExpressionInfo="NoRegularExpression" Reader="Voter" Font="MachinePrint" Pitch="Variable" Number="3">
+                <Strings>
+                  <String Info="RejectThreshold" Confidence="0" String="Return Date: Jun. 08, 2012">
+                    <CharConfidences Values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 " />
+                  </String>
+                </Strings>
+                <TextLineSegments>
+                  <TextLineSegment Font="MachinePrint" Pitch="Variable" CapitalHeight="279" CapitalHeightGeometry="602 1185 348 0 0 22" Geometry="602 1185 348 0 0 26">
+                    <Words>
+                      <Word BestWordString="Return" Geometry="602 1185 88 0 0 22" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                      <Word BestWordString=" " Geometry="690 1185 12 0 0 22" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="Date" Geometry="702 1185 61 0 0 23" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                      <Word BestWordString=":" Geometry="766 1192 4 0 0 15" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString=" " Geometry="770 1185 9 0 0 22" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="Jun" Geometry="779 1185 46 0 0 22" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                      <Word BestWordString="." Geometry="829 1203 4 0 0 4" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString=" " Geometry="833 1185 10 0 0 22" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="08" Geometry="843 1185 32 0 0 23" Pitch="Variable" Font="MachinePrint" Type="Numeric" />
+                      <Word BestWordString="," Geometry="877 1203 5 0 0 8" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString=" " Geometry="882 1185 10 0 0 22" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="2012" Geometry="892 1185 58 0 0 23" Pitch="Variable" Font="MachinePrint" Type="Numeric" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                </TextLineSegments>
+              </TextLine>
+              <TextLine Orientation="0" BestStringInfo="RejectThreshold" BestStringConfidence="0" BestString="For Support: https://www.belkin.com/support" Geometry="602 1229 626 0 0 30" RegularExpressionInfo="NoRegularExpression" Reader="Voter" Font="MachinePrint" Pitch="Variable" Number="4">
+                <Strings>
+                  <String Info="RejectThreshold" Confidence="0" String="For Support: https://www.belkin.com/support">
+                    <CharConfidences Values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 " />
+                  </String>
+                </Strings>
+                <TextLineSegments>
+                  <TextLineSegment Font="MachinePrint" Pitch="Variable" CapitalHeight="304" CapitalHeightGeometry="602 1229 626 0 0 24" Geometry="602 1229 626 0 0 30">
+                    <Words>
+                      <Word BestWordString="For" Geometry="602 1231 42 0 0 23" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                      <Word BestWordString=" " Geometry="644 1229 9 0 0 24" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="Support" Geometry="653 1230 110 0 0 29" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                      <Word BestWordString=":" Geometry="765 1238 4 0 0 15" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString=" " Geometry="769 1229 11 0 0 24" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="https" Geometry="780 1229 67 0 0 30" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" />
+                      <Word BestWordString="://" Geometry="851 1231 28 0 0 24" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="www" Geometry="880 1237 71 0 0 16" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" DictionaryInfo="Confirmed" />
+                      <Word BestWordString="." Geometry="952 1249 4 0 0 4" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="belkin" Geometry="959 1229 80 0 0 24" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" />
+                      <Word BestWordString="." Geometry="1043 1249 4 0 0 4" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="com" Geometry="1049 1236 57 0 0 18" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" DictionaryInfo="Confirmed" />
+                      <Word BestWordString="/" Geometry="1108 1231 11 0 0 24" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="support" Geometry="1120 1233 108 0 0 26" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" DictionaryInfo="Confirmed" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                </TextLineSegments>
+              </TextLine>
+              <TextLine Orientation="0" BestStringInfo="RejectThreshold" BestStringConfidence="0" BestString="Business Discount" Geometry="602 1277 244 0 0 24" RegularExpressionInfo="NoRegularExpression" Reader="Voter" Font="MachinePrint" Pitch="Variable" Number="5">
+                <Strings>
+                  <String Info="RejectThreshold" Confidence="0" String="Business Discount">
+                    <CharConfidences Values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 " />
+                  </String>
+                </Strings>
+                <TextLineSegments>
+                  <TextLineSegment Font="MachinePrint" Pitch="Variable" CapitalHeight="279" CapitalHeightGeometry="602 1278 244 0 0 22" Geometry="602 1277 244 0 0 24">
+                    <Words>
+                      <Word BestWordString="Business" Geometry="602 1277 113 0 0 24" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                      <Word BestWordString=" " Geometry="715 1278 12 0 0 22" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="Discount" Geometry="727 1277 119 0 0 24" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                </TextLineSegments>
+              </TextLine>
+            </TextLines>
+          </Block>
+          <Block Alignment="Unknown" Number="6" Geometry="1154 1515 336 0 0 258">
+            <TextLines>
+              <TextLine Orientation="0" BestStringInfo="RejectThreshold" BestStringConfidence="0" BestString="Sub-Total" Geometry="1363 1515 126 0 0 25" RegularExpressionInfo="NoRegularExpression" Reader="Voter" Font="MachinePrint" Pitch="Variable" Number="1">
+                <Strings>
+                  <String Info="RejectThreshold" Confidence="0" String="Sub-Total">
+                    <CharConfidences Values="0 0 0 0 0 0 0 0 0 " />
+                  </String>
+                </Strings>
+                <TextLineSegments>
+                  <TextLineSegment Font="MachinePrint" Pitch="Variable" CapitalHeight="304" CapitalHeightGeometry="1363 1515 126 0 0 24" Geometry="1363 1515 126 0 0 25">
+                    <Words>
+                      <Word BestWordString="Sub" Geometry="1363 1515 51 0 0 24" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                      <Word BestWordString="-" Geometry="1415 1529 8 0 0 2" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="Total" Geometry="1425 1515 64 0 0 25" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                </TextLineSegments>
+              </TextLine>
+              <TextLine Orientation="0" BestStringInfo="RejectThreshold" BestStringConfidence="0" BestString="Tax@8.21%" Geometry="1341 1563 149 0 0 24" RegularExpressionInfo="NoRegularExpression" Reader="Voter" Font="MachinePrint" Pitch="Variable" Number="2">
+                <Strings>
+                  <String Info="RejectThreshold" Confidence="0" String="Tax@8.21%">
+                    <CharConfidences Values="0 0 0 0 0 0 0 0 0 " />
+                  </String>
+                </Strings>
+                <TextLineSegments>
+                  <TextLineSegment Font="MachinePrint" Pitch="Variable" CapitalHeight="279" CapitalHeightGeometry="1341 1564 149 0 0 22" Geometry="1341 1563 149 0 0 24">
+                    <Words>
+                      <Word BestWordString="Tax" Geometry="1341 1564 45 0 0 23" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                      <Word BestWordString="@" Geometry="1388 1563 21 0 0 23" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="8" Geometry="1411 1564 15 0 0 23" Pitch="Variable" Font="MachinePrint" Type="Numeric" />
+                      <Word BestWordString="." Geometry="1429 1582 4 0 0 4" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="21" Geometry="1435 1564 24 0 0 22" Pitch="Variable" Font="MachinePrint" Type="Numeric" />
+                      <Word BestWordString="%" Geometry="1466 1564 24 0 0 22" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                </TextLineSegments>
+              </TextLine>
+              <TextLine Orientation="0" BestStringInfo="RejectThreshold" BestStringConfidence="0" BestString="Total" Geometry="1420 1608 68 0 0 24" RegularExpressionInfo="NoRegularExpression" Reader="Voter" Font="MachinePrint" Pitch="Variable" Number="3">
+                <Strings>
+                  <String Info="RejectThreshold" Confidence="0" String="Total">
+                    <CharConfidences Values="0 0 0 0 0 " />
+                  </String>
+                </Strings>
+                <TextLineSegments>
+                  <TextLineSegment Font="MachinePrint" Pitch="Variable" CapitalHeight="279" CapitalHeightGeometry="1420 1610 68 0 0 22" Geometry="1420 1608 68 0 0 24">
+                    <Words>
+                      <Word BestWordString="Total" Geometry="1420 1608 68 0 0 24" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                </TextLineSegments>
+              </TextLine>
+              <TextLine Orientation="0" BestStringInfo="RejectThreshold" BestStringConfidence="0" BestString="Amount Paid Via Visa (A)" Geometry="1154 1655 335 0 0 28" RegularExpressionInfo="NoRegularExpression" Reader="Voter" Font="MachinePrint" Pitch="Variable" Number="4">
+                <Strings>
+                  <String Info="RejectThreshold" Confidence="0" String="Amount Paid Via Visa (A)">
+                    <CharConfidences Values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 " />
+                  </String>
+                </Strings>
+                <TextLineSegments>
+                  <TextLineSegment Font="MachinePrint" Pitch="Variable" CapitalHeight="279" CapitalHeightGeometry="1154 1657 111 0 0 22" Geometry="1154 1657 111 0 0 23">
+                    <Words>
+                      <Word BestWordString="Amount" Geometry="1154 1657 111 0 0 23" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                  <TextLineSegment Font="MachinePrint" Pitch="Variable" CapitalHeight="292" CapitalHeightGeometry="1274 1656 215 0 0 23" Geometry="1274 1655 215 0 0 28">
+                    <Words>
+                      <Word BestWordString="Paid" Geometry="1274 1655 54 0 0 25" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                      <Word BestWordString=" " Geometry="1328 1656 11 0 0 23" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="Via" Geometry="1339 1656 40 0 0 24" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                      <Word BestWordString=" " Geometry="1379 1656 10 0 0 23" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="Visa" Geometry="1389 1656 53 0 0 24" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                      <Word BestWordString=" " Geometry="1442 1656 12 0 0 23" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="(" Geometry="1454 1656 7 0 0 27" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="A" Geometry="1463 1657 18 0 0 22" Pitch="Variable" Font="MachinePrint" Type="AlphaUpperCase" />
+                      <Word BestWordString=")" Geometry="1483 1656 6 0 0 27" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                </TextLineSegments>
+              </TextLine>
+              <TextLine Orientation="0" BestStringInfo="RejectThreshold" BestStringConfidence="0" BestString="xxxxxxxxxxxx6623" Geometry="1244 1704 245 0 0 23" RegularExpressionInfo="NoRegularExpression" Reader="Voter" Font="MachinePrint" Pitch="190" Number="5">
+                <Strings>
+                  <String Info="RejectThreshold" Confidence="0" String="xxxxxxxxxxxx6623">
+                    <CharConfidences Values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 " />
+                  </String>
+                </Strings>
+                <TextLineSegments>
+                  <TextLineSegment Font="MachinePrint" Pitch="190" CapitalHeight="279" CapitalHeightGeometry="1244 1704 245 0 0 22" Geometry="1244 1704 245 0 0 23">
+                    <Words>
+                      <Word BestWordString="xxxxxxxxxxxx6623" Geometry="1244 1704 245 0 0 23" Pitch="190" Font="MachinePrint" Type="Mixed" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                </TextLineSegments>
+              </TextLine>
+              <TextLine Orientation="0" BestStringInfo="RejectThreshold" BestStringConfidence="0" BestString="066498" Geometry="1389 1750 101 0 0 23" RegularExpressionInfo="NoRegularExpression" Reader="Voter" Font="MachinePrint" Pitch="215" Number="6">
+                <Strings>
+                  <String Info="RejectThreshold" Confidence="0" String="066498">
+                    <CharConfidences Values="0 0 0 0 0 0 " />
+                  </String>
+                </Strings>
+                <TextLineSegments>
+                  <TextLineSegment Font="MachinePrint" Pitch="215" CapitalHeight="279" CapitalHeightGeometry="1389 1750 101 0 0 22" Geometry="1389 1750 101 0 0 23">
+                    <Words>
+                      <Word BestWordString="066498" Geometry="1389 1750 101 0 0 23" Pitch="215" Font="MachinePrint" Type="Numeric" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                </TextLineSegments>
+              </TextLine>
+            </TextLines>
+          </Block>
+          <Block Alignment="Unknown" Number="7" Geometry="1024 2005 501 0 0 24">
+            <TextLines>
+              <TextLine Orientation="0" BestStringInfo="RejectThreshold" BestStringConfidence="0" BestString="*R1725934419*" Geometry="1024 2005 501 0 0 24" RegularExpressionInfo="NoRegularExpression" Reader="Voter" Style="Spaced" Font="MachinePrint" Pitch="254" Number="1">
+                <Strings>
+                  <String Info="RejectThreshold" Confidence="0" String="*R1725934419*">
+                    <CharConfidences Values="0 0 0 0 0 0 0 0 0 0 0 0 0 " />
+                  </String>
+                </Strings>
+                <TextLineSegments>
+                  <TextLineSegment Style="Spaced" Font="MachinePrint" Pitch="254" CapitalHeight="292" CapitalHeightGeometry="1024 2005 501 0 0 23" Geometry="1024 2005 501 0 0 24">
+                    <Words>
+                      <Word BestWordString="*" Geometry="1024 2006 12 0 0 13" Pitch="254" Font="MachinePrint" Style="Spaced" Type="Separator" />
+                      <Word BestWordString="R1725934419" Geometry="1057 2005 436 0 0 24" Pitch="254" Font="MachinePrint" Style="Spaced" Type="Mixed" />
+                      <Word BestWordString="*" Geometry="1513 2006 12 0 0 13" Pitch="254" Font="MachinePrint" Style="Spaced" Type="Separator" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                </TextLineSegments>
+              </TextLine>
+            </TextLines>
+          </Block>
+          <Block Alignment="Unknown" Number="8" Geometry="600 2262 733 0 0 123">
+            <TextLines>
+              <TextLine Orientation="0" BestStringInfo="RejectThreshold" BestStringConfidence="0" BestString="http://www.apple.com/legal/sales_policies/retail.html" Geometry="602 2262 731 0 0 31" RegularExpressionInfo="NoRegularExpression" Reader="Voter" Font="MachinePrint" Pitch="Variable" Number="1">
+                <Strings>
+                  <String Info="RejectThreshold" Confidence="0" String="http://www.apple.com/legal/sales_policies/retail.html">
+                    <CharConfidences Values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 " />
+                  </String>
+                </Strings>
+                <TextLineSegments>
+                  <TextLineSegment Font="MachinePrint" Pitch="Variable" CapitalHeight="304" CapitalHeightGeometry="602 2262 731 0 0 24" Geometry="602 2262 731 0 0 31">
+                    <Words>
+                      <Word BestWordString="http" Geometry="602 2262 55 0 0 30" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" DictionaryInfo="Confirmed" />
+                      <Word BestWordString="://" Geometry="660 2264 28 0 0 24" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="www" Geometry="689 2270 71 0 0 16" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" DictionaryInfo="Confirmed" />
+                      <Word BestWordString="." Geometry="761 2282 4 0 0 4" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="apple" Geometry="767 2262 75 0 0 30" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" DictionaryInfo="Confirmed" />
+                      <Word BestWordString="." Geometry="845 2282 4 0 0 4" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="com" Geometry="850 2269 57 0 0 18" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" DictionaryInfo="Confirmed" />
+                      <Word BestWordString="/" Geometry="909 2264 11 0 0 24" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="legal" Geometry="922 2262 63 0 0 31" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" DictionaryInfo="Confirmed" />
+                      <Word BestWordString="/" Geometry="986 2264 11 0 0 24" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="sales" Geometry="999 2262 62 0 0 25" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" DictionaryInfo="Confirmed" />
+                      <Word BestWordString="_" Geometry="1063 2288 17 0 0 2" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="policies" Geometry="1082 2262 99 0 0 30" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" DictionaryInfo="Confirmed" />
+                      <Word BestWordString="/" Geometry="1183 2264 11 0 0 24" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="retail" Geometry="1196 2262 66 0 0 25" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" DictionaryInfo="Confirmed" />
+                      <Word BestWordString="." Geometry="1265 2282 4 0 0 4" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="html" Geometry="1272 2262 61 0 0 24" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" DictionaryInfo="Confirmed" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                </TextLineSegments>
+              </TextLine>
+              <TextLine Orientation="0" BestStringInfo="RejectThreshold" BestStringConfidence="0" BestString="Tell us about your experience at the Apple Store." Geometry="600 2308 664 0 0 31" RegularExpressionInfo="NoRegularExpression" Reader="Voter" Font="MachinePrint" Pitch="Variable" Number="2">
+                <Strings>
+                  <String Info="RejectThreshold" Confidence="0" String="Tell us about your experience at the Apple Store.">
+                    <CharConfidences Values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 " />
+                  </String>
+                </Strings>
+                <TextLineSegments>
+                  <TextLineSegment Font="MachinePrint" Pitch="Variable" CapitalHeight="0" CapitalHeightGeometry="600 2308 664 0 0 25" Geometry="600 2308 664 0 0 31">
+                    <Words>
+                      <Word BestWordString="Tell" Geometry="600 2308 44 0 0 24" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" />
+                      <Word BestWordString=" " Geometry="644 2308 12 0 0 25" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="us" Geometry="656 2315 27 0 0 18" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" DictionaryInfo="Confirmed" />
+                      <Word BestWordString=" " Geometry="683 2308 11 0 0 31" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="about" Geometry="694 2308 80 0 0 25" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" DictionaryInfo="Confirmed" />
+                      <Word BestWordString=" " Geometry="774 2308 9 0 0 31" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="your" Geometry="783 2315 61 0 0 24" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" DictionaryInfo="Confirmed" />
+                      <Word BestWordString=" " Geometry="844 2308 10 0 0 30" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="experience" Geometry="854 2309 147 0 0 29" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" DictionaryInfo="Confirmed" />
+                      <Word BestWordString=" " Geometry="1001 2308 10 0 0 30" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="at" Geometry="1011 2312 26 0 0 21" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" DictionaryInfo="Confirmed" />
+                      <Word BestWordString=" " Geometry="1037 2308 9 0 0 30" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="the" Geometry="1046 2308 43 0 0 24" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" DictionaryInfo="Confirmed" />
+                      <Word BestWordString=" " Geometry="1089 2308 10 0 0 30" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="Apple" Geometry="1099 2308 79 0 0 30" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                      <Word BestWordString=" " Geometry="1178 2309 10 0 0 24" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="Store" Geometry="1188 2309 69 0 0 24" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                      <Word BestWordString="." Geometry="1260 2328 4 0 0 4" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                </TextLineSegments>
+              </TextLine>
+              <TextLine Orientation="0" BestStringInfo="RejectThreshold" BestStringConfidence="0" BestString="Visit www.apple.com/feedback/retail.html" Geometry="600 2355 573 0 0 30" RegularExpressionInfo="NoRegularExpression" Reader="Voter" Font="MachinePrint" Pitch="Variable" Number="3">
+                <Strings>
+                  <String Info="RejectThreshold" Confidence="0" String="Visit www.apple.com/feedback/retail.html">
+                    <CharConfidences Values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 " />
+                  </String>
+                </Strings>
+                <TextLineSegments>
+                  <TextLineSegment Font="MachinePrint" Pitch="Variable" CapitalHeight="304" CapitalHeightGeometry="600 2355 573 0 0 24" Geometry="600 2355 573 0 0 30">
+                    <Words>
+                      <Word BestWordString="Visit" Geometry="600 2356 58 0 0 24" Pitch="Variable" Font="MachinePrint" Type="AlphaCapitalized" DictionaryInfo="Confirmed" />
+                      <Word BestWordString=" " Geometry="658 2355 9 0 0 24" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="www" Geometry="667 2363 71 0 0 16" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" DictionaryInfo="Confirmed" />
+                      <Word BestWordString="." Geometry="739 2375 4 0 0 4" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="apple" Geometry="745 2355 75 0 0 30" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" DictionaryInfo="Confirmed" />
+                      <Word BestWordString="." Geometry="823 2375 4 0 0 4" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="com" Geometry="828 2362 57 0 0 18" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" DictionaryInfo="Confirmed" />
+                      <Word BestWordString="/" Geometry="887 2357 11 0 0 24" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="feedback" Geometry="898 2355 124 0 0 25" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" DictionaryInfo="Confirmed" />
+                      <Word BestWordString="/" Geometry="1023 2357 11 0 0 24" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="retail" Geometry="1037 2355 65 0 0 25" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" DictionaryInfo="Confirmed" />
+                      <Word BestWordString="." Geometry="1106 2375 4 0 0 4" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="html" Geometry="1112 2355 61 0 0 24" Pitch="Variable" Font="MachinePrint" Type="AlphaLowCase" DictionaryInfo="Confirmed" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                </TextLineSegments>
+              </TextLine>
+            </TextLines>
+          </Block>
+          <Block Alignment="Unknown" Number="9" Geometry="1781 785 100 0 0 28">
+            <TextLines>
+              <TextLine Orientation="0" BestStringInfo="RejectThreshold" BestStringConfidence="0" BestString="$ 34.95" Geometry="1781 785 100 0 0 28" RegularExpressionInfo="NoRegularExpression" Reader="Voter" Font="MachinePrint" Pitch="Variable" Number="1">
+                <Strings>
+                  <String Info="RejectThreshold" Confidence="0" String="$ 34.95">
+                    <CharConfidences Values="0 0 0 0 0 0 0 " />
+                  </String>
+                </Strings>
+                <TextLineSegments>
+                  <TextLineSegment Font="MachinePrint" Pitch="Variable" CapitalHeight="279" CapitalHeightGeometry="1781 788 100 0 0 22" Geometry="1781 785 100 0 0 28">
+                    <Words>
+                      <Word BestWordString="$" Geometry="1781 785 13 0 0 28" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString=" " Geometry="1794 788 13 0 0 22" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="34" Geometry="1807 788 32 0 0 22" Pitch="Variable" Font="MachinePrint" Type="Numeric" />
+                      <Word BestWordString="." Geometry="1842 805 5 0 0 5" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="95" Geometry="1849 788 32 0 0 22" Pitch="Variable" Font="MachinePrint" Type="Numeric" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                </TextLineSegments>
+              </TextLine>
+            </TextLines>
+          </Block>
+          <Block Alignment="Unknown" Number="10" Geometry="1785 972 95 0 0 29">
+            <TextLines>
+              <TextLine Orientation="0" BestStringInfo="RejectThreshold" BestStringConfidence="0" BestString="($ 2.45)" Geometry="1785 972 95 0 0 29" RegularExpressionInfo="NoRegularExpression" Reader="Voter" Font="MachinePrint" Pitch="Variable" Number="1">
+                <Strings>
+                  <String Info="RejectThreshold" Confidence="0" String="($ 2.45)">
+                    <CharConfidences Values="0 0 0 0 0 0 0 0 " />
+                  </String>
+                </Strings>
+                <TextLineSegments>
+                  <TextLineSegment Font="MachinePrint" Pitch="Variable" CapitalHeight="279" CapitalHeightGeometry="1785 975 95 0 0 22" Geometry="1785 972 95 0 0 29">
+                    <Words>
+                      <Word BestWordString="($" Geometry="1785 972 21 0 0 29" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString=" " Geometry="1806 975 12 0 0 22" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="2" Geometry="1818 975 14 0 0 22" Pitch="Variable" Font="MachinePrint" Type="Numeric" />
+                      <Word BestWordString="." Geometry="1836 993 4 0 0 4" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="45" Geometry="1840 975 30 0 0 22" Pitch="Variable" Font="MachinePrint" Type="Numeric" />
+                      <Word BestWordString=")" Geometry="1874 974 6 0 0 27" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                </TextLineSegments>
+              </TextLine>
+            </TextLines>
+          </Block>
+          <Block Alignment="Unknown" Number="11" Geometry="1782 1088 99 0 0 28">
+            <TextLines>
+              <TextLine Orientation="0" BestStringInfo="RejectThreshold" BestStringConfidence="0" BestString="$ 29.95" Geometry="1782 1088 99 0 0 28" RegularExpressionInfo="NoRegularExpression" Reader="Voter" Font="MachinePrint" Pitch="Variable" Number="1">
+                <Strings>
+                  <String Info="RejectThreshold" Confidence="0" String="$ 29.95">
+                    <CharConfidences Values="0 0 0 0 0 0 0 " />
+                  </String>
+                </Strings>
+                <TextLineSegments>
+                  <TextLineSegment Font="MachinePrint" Pitch="Variable" CapitalHeight="279" CapitalHeightGeometry="1782 1091 99 0 0 22" Geometry="1782 1088 99 0 0 28">
+                    <Words>
+                      <Word BestWordString="$" Geometry="1782 1088 13 0 0 28" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString=" " Geometry="1795 1091 13 0 0 22" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="29" Geometry="1808 1091 31 0 0 22" Pitch="Variable" Font="MachinePrint" Type="Numeric" />
+                      <Word BestWordString="." Geometry="1842 1108 5 0 0 5" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="95" Geometry="1849 1091 32 0 0 22" Pitch="Variable" Font="MachinePrint" Type="Numeric" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                </TextLineSegments>
+              </TextLine>
+            </TextLines>
+          </Block>
+          <Block Alignment="Unknown" Number="12" Geometry="1790 1275 90 0 0 29">
+            <TextLines>
+              <TextLine Orientation="0" BestStringInfo="RejectThreshold" BestStringConfidence="0" BestString="($ 2.10)" Geometry="1790 1275 90 0 0 29" RegularExpressionInfo="NoRegularExpression" Reader="Voter" Font="MachinePrint" Pitch="Variable" Number="1">
+                <Strings>
+                  <String Info="RejectThreshold" Confidence="0" String="($ 2.10)">
+                    <CharConfidences Values="0 0 0 0 0 0 0 0 " />
+                  </String>
+                </Strings>
+                <TextLineSegments>
+                  <TextLineSegment Font="MachinePrint" Pitch="Variable" CapitalHeight="279" CapitalHeightGeometry="1790 1278 90 0 0 22" Geometry="1790 1275 90 0 0 29">
+                    <Words>
+                      <Word BestWordString="($" Geometry="1790 1275 21 0 0 29" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString=" " Geometry="1811 1278 12 0 0 22" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="2" Geometry="1823 1278 14 0 0 22" Pitch="Variable" Font="MachinePrint" Type="Numeric" />
+                      <Word BestWordString="." Geometry="1841 1296 4 0 0 4" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="10" Geometry="1846 1278 25 0 0 23" Pitch="Variable" Font="MachinePrint" Type="Mixed" />
+                      <Word BestWordString=")" Geometry="1874 1277 6 0 0 27" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                </TextLineSegments>
+              </TextLine>
+            </TextLines>
+          </Block>
+          <Block Alignment="Unknown" Number="13" Geometry="1784 1514 98 0 0 168">
+            <TextLines>
+              <TextLine Orientation="0" BestStringInfo="RejectThreshold" BestStringConfidence="0" BestString="$ 60.35" Geometry="1786 1514 94 0 0 28" RegularExpressionInfo="NoRegularExpression" Reader="Voter" Font="MachinePrint" Pitch="Variable" Number="1">
+                <Strings>
+                  <String Info="RejectThreshold" Confidence="0" String="$ 60.35">
+                    <CharConfidences Values="0 0 0 0 0 0 0 " />
+                  </String>
+                </Strings>
+                <TextLineSegments>
+                  <TextLineSegment Font="MachinePrint" Pitch="Variable" CapitalHeight="279" CapitalHeightGeometry="1786 1517 94 0 0 22" Geometry="1786 1514 94 0 0 28">
+                    <Words>
+                      <Word BestWordString="$" Geometry="1786 1514 12 0 0 28" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString=" " Geometry="1798 1517 12 0 0 22" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="60" Geometry="1810 1517 31 0 0 23" Pitch="Variable" Font="MachinePrint" Type="Numeric" />
+                      <Word BestWordString="." Geometry="1845 1535 4 0 0 4" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="35" Geometry="1851 1517 29 0 0 22" Pitch="Variable" Font="MachinePrint" Type="Numeric" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                </TextLineSegments>
+              </TextLine>
+              <TextLine Orientation="0" BestStringInfo="RejectThreshold" BestStringConfidence="0" BestString="$ 4.96" Geometry="1803 1561 79 0 0 28" RegularExpressionInfo="NoRegularExpression" Reader="Voter" Font="MachinePrint" Pitch="Variable" Number="2">
+                <Strings>
+                  <String Info="RejectThreshold" Confidence="0" String="$ 4.96">
+                    <CharConfidences Values="0 0 0 0 0 0 " />
+                  </String>
+                </Strings>
+                <TextLineSegments>
+                  <TextLineSegment Font="MachinePrint" Pitch="Variable" CapitalHeight="279" CapitalHeightGeometry="1803 1564 79 0 0 22" Geometry="1803 1561 79 0 0 28">
+                    <Words>
+                      <Word BestWordString="$" Geometry="1803 1561 12 0 0 28" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString=" " Geometry="1815 1564 11 0 0 22" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="4" Geometry="1826 1564 15 0 0 22" Pitch="Variable" Font="MachinePrint" Type="Numeric" />
+                      <Word BestWordString="." Geometry="1844 1582 4 0 0 4" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="96" Geometry="1850 1564 32 0 0 23" Pitch="Variable" Font="MachinePrint" Type="Numeric" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                </TextLineSegments>
+              </TextLine>
+              <TextLine Orientation="0" BestStringInfo="RejectThreshold" BestStringConfidence="0" BestString="$ 65.31" Geometry="1784 1607 93 0 0 28" RegularExpressionInfo="NoRegularExpression" Reader="Voter" Font="MachinePrint" Pitch="Variable" Number="3">
+                <Strings>
+                  <String Info="RejectThreshold" Confidence="0" String="$ 65.31">
+                    <CharConfidences Values="0 0 0 0 0 0 0 " />
+                  </String>
+                </Strings>
+                <TextLineSegments>
+                  <TextLineSegment Font="MachinePrint" Pitch="Variable" CapitalHeight="279" CapitalHeightGeometry="1784 1610 93 0 0 22" Geometry="1784 1607 93 0 0 28">
+                    <Words>
+                      <Word BestWordString="$" Geometry="1784 1607 13 0 0 28" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString=" " Geometry="1797 1610 12 0 0 22" Pitch="Variable" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="65" Geometry="1809 1610 32 0 0 22" Pitch="Variable" Font="MachinePrint" Type="Numeric" />
+                      <Word BestWordString="." Geometry="1844 1627 5 0 0 5" Pitch="Variable" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="31" Geometry="1852 1610 25 0 0 22" Pitch="Variable" Font="MachinePrint" Type="Numeric" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                </TextLineSegments>
+              </TextLine>
+              <TextLine Orientation="0" BestStringInfo="RejectThreshold" BestStringConfidence="0" BestString="$ 65.31" Geometry="1790 1654 87 0 0 28" RegularExpressionInfo="NoRegularExpression" Reader="Voter" Font="MachinePrint" Pitch="152" Number="4">
+                <Strings>
+                  <String Info="RejectThreshold" Confidence="0" String="$ 65.31">
+                    <CharConfidences Values="0 0 0 0 0 0 0 " />
+                  </String>
+                </Strings>
+                <TextLineSegments>
+                  <TextLineSegment Font="MachinePrint" Pitch="152" CapitalHeight="279" CapitalHeightGeometry="1790 1657 87 0 0 22" Geometry="1790 1654 87 0 0 28">
+                    <Words>
+                      <Word BestWordString="$" Geometry="1790 1654 12 0 0 28" Pitch="152" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString=" " Geometry="1802 1657 12 0 0 22" Pitch="152" Font="MachinePrint" Type="BlankSeparator" />
+                      <Word BestWordString="65" Geometry="1814 1657 29 0 0 23" Pitch="152" Font="MachinePrint" Type="Numeric" />
+                      <Word BestWordString="." Geometry="1847 1675 4 0 0 4" Pitch="152" Font="MachinePrint" Type="Separator" />
+                      <Word BestWordString="31" Geometry="1854 1657 23 0 0 22" Pitch="152" Font="MachinePrint" Type="Numeric" />
+                    </Words>
+                    <FontProposals>
+                      <FontProposal Value="MachinePrint" Confidence="255" />
+                    </FontProposals>
+                  </TextLineSegment>
+                </TextLineSegments>
+              </TextLine>
+            </TextLines>
+          </Block>
+        </Blocks>
+      </ReadArea>
+      <ReadArea Orientation="0" Info="Reject" Geometry="0 0 2549 0 0 3299" Encoding="0" Type="BarCode" Number="2" FullName="Barcode_1" Name="Barcode_1" />
+    </ReadAreas>
+  </Document>
+</Documents>

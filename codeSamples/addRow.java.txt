@@ -1,0 +1,57 @@
+
+public void addRow(Element element, String[] cols) {
+	Element rowsElement = element.getChild("Rows");
+	
+	// create a new row
+	Element rowElement = appendChildNode(rowsElement, "Row");
+
+	// create new coordinates
+	Element coords = appendChildNode(rowElement, "RowCoordinates");
+	appendChildNode(coords, "x0", "1");  // TODO: use correct coordinates
+	appendChildNode(coords, "y0", "50");
+	appendChildNode(coords, "x1", "1");
+	appendChildNode(coords, "y1", "50");
+	
+	// it's really "mannual" in the XML
+	appendChildNode(rowElement, "MannualExtraction", "false");  
+	
+	Element colsElement = appendChildNode(rowElement, "Columns");
+
+	for (int i = 0; i < cols.length; i++) {
+		addCell(colsElement, cols[i]);
+	}
+}
+
+protected void addCell(Element colsElement, String value) {
+	Element col = appendChildNode(colsElement, "Column");
+	appendChildNode(col, "Value", value);
+	appendChildNode(col,  "Confidence", "100");
+	
+	Element coordsList = appendChildNode(col, "CoordinatesList");
+	Element coords = appendChildNode(coordsList, "Coordinates");
+
+	appendChildNode(coords, "x0", "1");  // TODO: use correct coordinates
+	appendChildNode(coords, "y0", "50");
+	appendChildNode(coords, "x1", "1");
+	appendChildNode(coords, "y1", "50");
+	
+	appendChildNode(col, "Page", "PG0"); // TODO: use real page num
+	appendChildNode(col, "FieldOrderNumber", "0");
+	appendChildNode(col, "Valid", "false");
+	appendChildNode(col, "ValidationRequired", "false");
+	
+	appendChildNode(col, "AlternateValues");
+}
+
+static protected Element appendChildNode(Element parent, String name, String value)  {
+	Element child = new Element(name);
+	child.setText(value);
+	parent.addContent(child);
+	return child;
+}
+
+static protected Element appendChildNode(Element parent, String name) {
+	Element child = new Element(name);
+	parent.addContent(child);
+	return child;
+}

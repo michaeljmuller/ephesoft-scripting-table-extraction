@@ -1,0 +1,79 @@
+<Row>
+  <RowCoordinates>
+    <x0>1</x0>
+    <y0>50</y0>
+    <x1>1</x1>
+    <y1>50</y1>
+  </RowCoordinates>
+  <MannualExtraction>false</MannualExtraction>
+  <Columns>
+    <Column>
+      <Value>Moshi Mini DisplayPort to HDMI Adaptor</Value>
+      <Confidence>100</Confidence>
+      <CoordinatesList>
+        <Coordinates>
+          <x0>1</x0>
+          <y0>50</y0>
+          <x1>1</x1>
+          <y1>50</y1>
+        </Coordinates>
+      </CoordinatesList>
+      <Page>PG0</Page>
+      <FieldOrderNumber>0</FieldOrderNumber>
+      <Valid>false</Valid>
+      <ValidationRequired>false</ValidationRequired>
+      <AlternateValues />
+    </Column>
+    <Column>
+      <Value>34.95</Value>
+      <Confidence>100</Confidence>
+      <CoordinatesList>
+        <Coordinates>
+          <x0>1</x0>
+          <y0>50</y0>
+          <x1>1</x1>
+          <y1>50</y1>
+        </Coordinates>
+      </CoordinatesList>
+      <Page>PG0</Page>
+      <FieldOrderNumber>0</FieldOrderNumber>
+      <Valid>false</Valid>
+      <ValidationRequired>false</ValidationRequired>
+      <AlternateValues />
+    </Column>
+    <Column>
+      <Value>H 1824ZM/A</Value>
+      <Confidence>100</Confidence>
+      <CoordinatesList>
+        <Coordinates>
+          <x0>1</x0>
+          <y0>50</y0>
+          <x1>1</x1>
+          <y1>50</y1>
+        </Coordinates>
+      </CoordinatesList>
+      <Page>PG0</Page>
+      <FieldOrderNumber>0</FieldOrderNumber>
+      <Valid>false</Valid>
+      <ValidationRequired>false</ValidationRequired>
+      <AlternateValues />
+    </Column>
+    <Column>
+      <Value>2.45</Value>
+      <Confidence>100</Confidence>
+      <CoordinatesList>
+        <Coordinates>
+          <x0>1</x0>
+          <y0>50</y0>
+          <x1>1</x1>
+          <y1>50</y1>
+        </Coordinates>
+      </CoordinatesList>
+      <Page>PG0</Page>
+      <FieldOrderNumber>0</FieldOrderNumber>
+      <Valid>false</Valid>
+      <ValidationRequired>false</ValidationRequired>
+      <AlternateValues />
+    </Column>
+  </Columns>
+</Row>

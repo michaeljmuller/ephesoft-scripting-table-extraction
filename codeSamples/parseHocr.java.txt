@@ -1,0 +1,86 @@
+public List<String> parseHOCR(String pathToHocrZip, String hocrFilename) throws Exception {
+
+	// parse the OCR output
+	Document hocrDom = XMLUtil.createJDOMDocumentFromInputStream(FileUtils.getInputStreamFromZip(pathToHocrZip, hocrFilename));
+	
+	// get each word from the OCR output
+	@SuppressWarnings("unchecked")
+	List<Element> words = XPath.selectNodes(hocrDom, "/HocrPages/HocrPage/Spans/Span");
+	
+	// sort the words vertically
+	Collections.sort(words, new Comparator<Element>() {
+		public int compare(Element wordA, Element wordB) {
+			try {
+				Element yA = (Element) XPath.selectSingleNode(wordA, "Coordinates/y0");
+				Element yB = (Element) XPath.selectSingleNode(wordB, "Coordinates/y0");
+				return Integer.parseInt(yA.getText()) - Integer.parseInt(yB.getText());
+			} 
+			catch (Exception x) {
+				return 0;
+			}
+		}});
+	
+	List<List<Element>> lines = new LinkedList<List<Element>>();
+	List<Element> line = new LinkedList<Element>();
+	int FUDGE_FACTOR = 20;
+	
+	// for each word
+	int lineStartY = -1;
+	for (Element word : words) {
+		Element yElem = (Element) XPath.selectSingleNode(word, "Coordinates/y0");
+		int y = Integer.parseInt(yElem.getText());
+		
+		// if this is a new line, add the word to the line
+		if (lineStartY == -1) {
+			line.add(word);
+			lineStartY = y;
+		}
+		
+		// if this is not a new line
+		else {
+			// if it should it be a new line, end the last line and start a new one
+			if (y - lineStartY > FUDGE_FACTOR) {
+				lines.add(line);
+				line = new LinkedList<Element>();
+				lineStartY = y;
+			}
+			
+			// add the word to the line
+			line.add(word);
+		}
+	}
+	
+	// add the last line of text
+	if (line.size() > 0) {
+		lines.add(line);
+	}
+	
+	// for each line
+	for (List<Element> unsortedLine : lines) {
+		// sort the words horizontally
+		Collections.sort(unsortedLine, new Comparator<Element>() {
+			public int compare(Element wordA, Element wordB) {
+				try {
+					Element xA = (Element) XPath.selectSingleNode(wordA, "Coordinates/x0");
+					Element xB = (Element) XPath.selectSingleNode(wordB, "Coordinates/x0");
+					return Integer.parseInt(xA.getText()) - Integer.parseInt(xB.getText());
+				} 
+				catch (Exception x) {
+					return 0;
+				}
+			}});
+	}
+	
+	// convert the words to strings
+	List <String> text = new LinkedList<String>();
+	for (List<Element> sortedLine : lines) {
+		String lineOfText = "";
+		for (Element word : sortedLine) {
+			lineOfText += word.getChildText("Value") + " ";
+		}
+		text.add(lineOfText);
+		System.out.println(lineOfText);
+	}
+
+	return text;
+}
